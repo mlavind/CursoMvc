@@ -150,6 +150,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DB.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Models\FormViewModels\UserFormViewModel.cs" />
     <Compile Include="Models\State.cs">
       <DependentUpon>DB.tt</DependentUpon>
     </Compile>
